@@ -1,5 +1,7 @@
 ---
 layout: posts
+title: Hello
 ---
 
-Hello, my first post
+Hello!my first post
+
