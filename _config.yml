@@ -32,7 +32,8 @@ footer-links:
 
 comments: true
 # Your disqus shortname, entering this will enable commenting on posts
-disqus: 3pointer
+disqus: 
+short_name: 3pointer
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: 
