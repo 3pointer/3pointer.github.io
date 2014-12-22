@@ -4,8 +4,9 @@ layout: default
 
 <article class="post">
     <h1>{{ page.title }}</h1>
-
-
+    <div class="entry">
+        {{ content }}
+    </div>
     <div class="date">
         Written on {{ page.date | date: "%B %e, %Y" }}
     </div>
@@ -23,11 +24,6 @@ layout: default
     </script>
 
     <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-
-    <div class="entry">
-        {{ content }}
-    </div>
-
     {% include disqus.html disqus_identifier=page.disqus_identifier %}
 </article>
 
