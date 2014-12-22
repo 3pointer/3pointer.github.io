@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3pointer</title>
+    <description>My Place</description>
+    <link></link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>beginning</title>
+        <description>&lt;p&gt;开始尝试学习用github，进行学习，反正也没人会找到这里，那就在这里会把自己学到的东西，留给以后的自己看。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 15 Dec 2014 00:00:00 +0800</pubDate>
+        <link>/Beginning/</link>
+        <guid isPermaLink="true">/Beginning/</guid>
+      </item>
+    
+      <item>
+        <title>Hello</title>
+        <description>&lt;p&gt;Hello!my first post&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 23 Nov 2014 00:00:00 +0800</pubDate>
+        <link>/hello-world/</link>
+        <guid isPermaLink="true">/hello-world/</guid>
+      </item>
+    
+  </channel>
+</rss>
