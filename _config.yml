@@ -73,3 +73,5 @@ exclude:
     - Gemfile.lock
     - LICENSE
     - README.md
+
+imagesOne: https://raw.githubusercontent.com/3pointer/3pointer.github.io/master/images/1.png

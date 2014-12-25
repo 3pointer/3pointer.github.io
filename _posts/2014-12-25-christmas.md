@@ -11,4 +11,4 @@ title: Merry Christmas
 
 第一个让我们来看一张图。
 
-![gg]{{site.imageOne}}
+![gg]({{site.imageOne}})
